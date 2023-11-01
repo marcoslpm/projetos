@@ -8,4 +8,9 @@ gerenciamento dos alunos, permitindo o registro de informações como código
 disso, o programa realiza cálculos como o Índice de Massa Corporal (IMC), o 
 peso ideal dos alunos e o somatório total das mensalidades por curso juntamente 
 com o total geral.
+
+# BAIXAR O ARQUIVO ZIPADO, OS COMPLEMENTOS ANEXADOS SÃO APENAS PARA VIZUALIZAÇÃO DO CÓDIGO.
+
+# RECOMENDA-SE A UTILIZAÇÃO DO SOFTWARE CODE-BLOCKS.
+
 # projetos
