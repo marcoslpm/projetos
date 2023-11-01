@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1687076485 source:c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\interface.c
+	"interface.h"
+
+1687076485 c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\interface.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1687212367 source:c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"aluno.h"
+
+1687213335 source:c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aluno.h"
+	"curso.h"
+
+1687155861 c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\aluno.h
+
+1687209493 source:c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\curso.c
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"curso.h"
+	"aluno.h"
+
+1687157739 c:\users\marco\onedrive\Área de trabalho\novo projeto\academia\curso.h
+
+1687499594 source:c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"interface.h"
+	"aluno.h"
+	"curso.h"
+
+1687498762 c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\aluno.h
+
+1687457467 c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\curso.h
+	<stdio.h>
+	<stdlib.h>
+
+1687457467 source:c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\curso.c
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"curso.h"
+	"aluno.h"
+
+1687458975 c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\interface.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1687494929 source:c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\interface.c
+	"interface.h"
+
+1687496129 source:c:\users\marco\onedrive\Área de trabalho\projeto academia\academia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"aluno.h"
+	"curso.h"
+
+1687457467 source:c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\curso.c
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"curso.h"
+	"aluno.h"
+
+1687458975 c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\interface.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1687457467 c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\curso.h
+	<stdio.h>
+	<stdlib.h>
+
+1687894784 c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\aluno.h
+
+1687890781 source:c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\interface.c
+	"interface.h"
+
+1687894787 source:c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"aluno.h"
+	"curso.h"
+
+1687980333 source:c:\users\usuario\desktop\projeto academia (1)\projeto academia\academia\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"interface.h"
+	"aluno.h"
+	"curso.h"
+
+1688500335 source:c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"aluno.h"
+
+1688449686 c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\interface.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1688441233 c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\aluno.h
+
+1687457467 c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\curso.h
+	<stdio.h>
+	<stdlib.h>
+
+1687457467 source:c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\curso.c
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"curso.h"
+	"aluno.h"
+
+1688450109 source:c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\interface.c
+	"interface.h"
+
+1688450431 source:c:\users\marco\onedrive\Área de trabalho\projeto academia original\academia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"aluno.h"
+
+1688500335 source:c:\users\marco\onedrive\Área de trabalho\primeiro período\aeds\marcos moura - trabalho de arquivos\projeto academia original\academia\aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+	"aluno.h"
+
+1688449686 c:\users\marco\onedrive\Área de trabalho\primeiro período\aeds\marcos moura - trabalho de arquivos\projeto academia original\academia\interface.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1688441233 c:\users\marco\onedrive\Área de trabalho\primeiro período\aeds\marcos moura - trabalho de arquivos\projeto academia original\academia\aluno.h
+
+1688450109 source:c:\users\marco\onedrive\Área de trabalho\primeiro período\aeds\marcos moura - trabalho de arquivos\projeto academia original\academia\interface.c
+	"interface.h"
+
+1688528816 source:c:\users\marco\onedrive\Área de trabalho\primeiro período\aeds\marcos moura - trabalho de arquivos\projeto academia original\academia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"aluno.h"
+
